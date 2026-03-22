@@ -1,4 +1,7 @@
-this file contains the string related functions ...
+this file contains the string related functions
+:wq
 
 
-adding the sline in dev branch
+this is updated by harshini
+
+
